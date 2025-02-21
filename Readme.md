@@ -1,4 +1,4 @@
-# Introduction to Web Development
+# Full Stack Web Development
 
 Welcome to the Web Development course! This README will guide you through each topic, with lessons organized into branches for easy navigation. Start from **Topic 1** and follow the sequence to build a solid foundation.
 
